@@ -14,5 +14,13 @@
     "axios": "^1.16.1",
     "cheerio": "^1.2.0",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4nik2r24-sketch/actividad_2_6_cheerio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/4nik2r24-sketch/actividad_2_6_cheerio/issues"
+  },
+  "homepage": "https://github.com/4nik2r24-sketch/actividad_2_6_cheerio#readme"
 }
